@@ -66,7 +66,7 @@ form .input-box{
 
 }
 .input-box input::placeholder{
-    color: white;
+    color: lightslategrey;
 
 }
 
